@@ -53,7 +53,7 @@ Step 1:  Showing 5 Message:
 
 ​                 
 
-### Explaination
+### Example with Explaination 
 
 	Product list:
 	                 Name     -      Quantity          -      Net Price       -    Sell Price
@@ -63,7 +63,7 @@ Step 1:  Showing 5 Message:
 	                    
 	Billing:
 		             Product Name         –       Product Quantity      –     Total Amount
-	                   iPhone             -             2               -          49,998
+	                       iPhone             -             2               -          49,998
 	                 -------------------------------------------------------------------------
 	                   
 	Profit:
@@ -82,6 +82,5 @@ Step 1:  Showing 5 Message:
 
 ### **Future Improvements:**
 
-- Integrate a database system for better data management.
-- Update the user interface for improved user experience.
-- Convert the C++ program to an executable (.exe) file for ease of use.
+- Integrate a database system.
+- Update the user interface.
