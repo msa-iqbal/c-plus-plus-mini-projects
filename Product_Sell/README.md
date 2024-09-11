@@ -11,121 +11,52 @@ This project is designed to manage a basic product selling system using C++. It 
 
 ### Manual Guidelines
 
-1. **Display Menu:**
+ Step 1:  Showing 5 Message:
 
-   - Press 1 to Add a Product
+                            Press 1 to Add a Products
+                            Press 2 to View the Products
+                            Press 3 to Sell a Products
+                            Press 4 to View Profit
+                            Press 5 to Exit
 
-   - Press 2 to View Products
+Step 2:  If press 1 then 
 
-   - Press 3 to Sell a Product
-
-   - Press 4 to View Profit
-
-   - Press 5 to Exit
-
-     
-
-2. **Add a Product (Press 1):**
-
-   - **Input:**
-
-     - Product Name
-
-     - Product Quantity
-
-     - Product Net Price
-
-     - Product Selling Price
-
-       
-
-3. **View Products (Press 2):**
-
-   - **Output:**
-
-     - Product Name
-
-     - Product Quantity
-
-     - Product Net Price
-
-     - Product Selling Price
-
-       
-
-4. **Sell a Product (Press 3):**
-
-   - **Input:**
-
-     - Product Name
-     - Product Quantity
-
-   - **Output:**
-
-     - Remaining Quantity of Product
-
-     - Total Selling Price
-
-       
-
-5. **View Profit (Press 4):**
-
-   - **Output:**
-
-     - Total Profit
-
-       
-
-6. **Exit Program (Press 5):**
-
-   - Close the program
+		      Input:
+	                Product Name 
+	                Product Quantity
+	                Product Net Price
+	                Product Sell Price
 
 
+Step 3:  If press 2 then 
 
-#### <u>Explanation with Examples</u>:
+		       Output:
+	                  Product Name
+	                  Product Quantity
+	                  Product Net Price
+	                  Product Sell Price
 
-**Example**: Product List
+Step 4:  If press 3 then 
 
-- **Name:** iPhone
+		     Input : 
+	                Product Name
+	                Product Quantity
+	                
+	         Output: 
+	                Product Remaining Quantity
+	                Total Sell Price
 
-- **Quantity:** 1
+Step 5:   If press 4 then
 
-- **Net Price:** 20,500
+	             Output:
+	                    Profit
 
-- **Selling Price:** 24,999
 
-- **Name:** iPhone
+Step 6:  If press 5 then
 
-- **Quantity:** 2
+		 Close the program
 
-- **Net Price:** 20,500 x 2
 
-- **Selling Price:** 24,999 x 2
-
-  
-
-**Example**: Billing
-
-- **Product Name:** iPhone
-
-- **Quantity:** 2
-
-- **Total Amount:** 49,998
-
-  
-
-**Example**: Profit Calculation
-
-- **Profit (Selling Price – Net Price):** (49,998 – 41,000) = 8,998 TK
-- **Profit:** 8,998 TK
-
-- **Details:**
-  - **Product Name:** iPhone
-  - **Net Price per Unit:** 20,500 TK
-  - **Selling Price per Unit:** 24,999 TK
-  - **Quantity Sold:** 2
-  - **Total Selling Amount:** 49,998 TK
-  - **Total Profit:** 8,998 TK
 
 ### **Future Improvements:**
 
