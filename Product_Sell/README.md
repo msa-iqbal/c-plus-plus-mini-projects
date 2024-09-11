@@ -60,6 +60,5 @@ Step 6:  If press 5 then
 
 ### **Future Improvements:**
 
-- Integrate a database system for better data management.
-- Update the user interface for improved user experience.
-- Convert the C++ program to an executable (.exe) file for ease of use.
+- Integrate a database system.
+- Update the user interface.
